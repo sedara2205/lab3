@@ -2,7 +2,7 @@
 //  User.swift
 //  lab-insta-parse
 //
-//  Created by Charlie Hieger on 11/29/22.
+//  Created by Harsha edara
 //
 
 import Foundation
