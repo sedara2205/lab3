@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  lab-insta-parse
 //
-//  Created by CHarsha edara
+//  Created by Harsha edara
 //
 
 import UIKit
